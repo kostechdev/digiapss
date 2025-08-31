@@ -1,0 +1,12 @@
+@layer components {
+    .fi-main {
+        --content-padding: 1rem !important;
+    }
+    .fi-ta-content {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+    }
+    .fi-body {
+        gap: 0.5rem !important;
+    }
+}
